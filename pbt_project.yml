@@ -1,0 +1,57 @@
+name: efrain.bashirian
+description: upward-trending
+version: 4.29.434
+author: null
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: efrainbashirian
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2024-10-24 22:04:44'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-10-24 22:04:44'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2024-10-24T22:04:44.470904Z'
+  name: plibMaven
+  version: 8.4.0-SNAPSHOT
+  id: '1466605392'
+  createdAt: '2024-10-24T22:04:44.470904Z'
+  type: plibMaven
+projectDependencies:
+  '307':
+    projectUID: 307
+    projectName: donovan.wolf
+    repositoryPath: gitUri=http://gitserver:3000/dev_9m1uXB4L_team_439/dev_9m1uXB4L_project_307.git&subPath=
+    version: donovan.wolf/0.80.552
+    isDefault: false
+    author: null
+    createdAt: '2024-10-24 22:04:44'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
